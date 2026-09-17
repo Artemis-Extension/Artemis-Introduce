@@ -1,0 +1,4 @@
+# 커밋 작성자 표기를 한 사람으로 모은다 (git log --use-mailmap · git shortlog)
+RosieOh <dhxogns920@gmail.com>
+RosieOh <dhxogns920@gmail.com> <20172207@gm.hannam.ac.kr>
+RosieOh <dhxogns920@gmail.com> <104690434+RosieOh@users.noreply.github.com>
