@@ -9,6 +9,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   telemetry: false,
 
+  css: ["~/assets/css/main.css"],
   typescript: { strict: true },
 
   /* GitHub Pages 프로젝트 사이트는 https://<org>.github.io/<저장소명>/ 아래에서 서빙된다.
